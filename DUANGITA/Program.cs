@@ -10,6 +10,7 @@ namespace DUANGITA
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Would");
         }
     }
 }
