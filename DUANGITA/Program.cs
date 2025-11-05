@@ -11,7 +11,7 @@ namespace DUANGITA
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Would");
-            Console.WriteLine("Hello Would 2");
+            Console.WriteLine("Hello Would 2 1");
         }
     }
 }
